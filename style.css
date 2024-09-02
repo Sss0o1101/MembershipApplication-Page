@@ -18,6 +18,7 @@ div.content{
     margin: 10px auto;
     border: 1px solid #d1d1d1;
     padding: 24px;
+    border-radius: 15px;
 }
 
 .input{
@@ -32,8 +33,9 @@ div.content{
     color: #cb82e0;
     border: none;
     padding: 15px;
-    border-radius: 3px;
+    border-radius: 5px;
     box-shadow: 0 0 8px rgba(0, 0n, 0, .4);
+
 }
 
 .label{
